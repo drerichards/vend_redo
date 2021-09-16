@@ -2,7 +2,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Abel', sans-serif;
+  font-family: "Abel", sans-serif;
 }
 
 a {
@@ -12,4 +12,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+p {
+  margin-bottom: 0;
 }

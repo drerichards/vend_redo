@@ -4,19 +4,19 @@ import styles from '../../styles/nav/SideNav.module.scss'
 
 const menuLinks = [
     {
-        id: 'women',
+        id: 'womens',
         mainLink: 'Women\'s',
         subLinks: ['Shirts', 'Pants', 'Dresses', 'Shoes']
     },
     {
-        id: 'men',
+        id: 'mens',
         mainLink: 'Men\'s',
-        subLinks: ['Shirts', 'Pants', 'Shoes']
+        subLinks: ['Shirts', 'Pants', 'Hats', 'Shoes']
     },
     {
         id: 'electronics',
         mainLink: 'Electronics',
-        subLinks: ['TVs', 'Computers', 'Gaming', 'Tablets']
+        subLinks: ['Televisions', 'Laptops', 'Cameras', 'Gaming']
     },
     {
         id: 'home',
