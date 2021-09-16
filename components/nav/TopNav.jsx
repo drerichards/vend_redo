@@ -6,7 +6,7 @@ const TopNav = () => {
             <div className="container-fluid">
                 <Link href="/">
                     <a className="navbar-brand mb-0 h1">
-                        Navbar
+                        Vendible
                     </a>
                 </Link>
                 <ul className="nav justify-content-end">

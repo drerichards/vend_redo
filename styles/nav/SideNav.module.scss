@@ -1,0 +1,25 @@
+.sideNav {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 0;
+  list-style: none;
+  padding: 0 1rem;
+  width: 125px;
+  .navLink {
+    color: inherit;
+    text-decoration: none;
+    padding: 0.25rem 0;
+  }
+  .subLink {
+    font-size: 0.9rem;
+    padding: 0.25rem 0 0.05rem .5rem;
+    a {
+      display: flex;
+      align-items: center;
+      i {
+        font-size: 0.5rem;
+        margin-right: .25rem;
+      }
+    }
+  }
+}
